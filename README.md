@@ -1,2 +1,2 @@
 Toki Pona
-concordance: V. 20240515A alpha
+concordance: V. 20240521 alpha
